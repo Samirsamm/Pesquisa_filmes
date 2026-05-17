@@ -44,8 +44,8 @@ Um aplicativo de filmes desenvolvido em Flutter, com listagem de filmes populare
 
 **1. Clone o repositório**
 ```bash
-git clone https://github.com/Samirsamm/cine_app
-cd cine_app
+git clone https://github.com/Samirsamm/Pesquisa_filmes
+cd pesquisa_filmes
 ```
 
 **2. Instale as dependências**
